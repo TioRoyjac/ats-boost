@@ -55,16 +55,17 @@ Itens:
 - Analisar Currículo
 - Painel Administrativo
 ---
- Landing Page:
+# Landing Page:
  Hero Section
 Título:
 "Passe pelos filtros ATS e aumente suas chances de entrevista."
+
 Subtítulo:
-"Compare seu currículo com uma vaga, descubra o que está faltando e gere uma versão otimizada em segundos."
+Compare seu currículo com uma vaga, descubra o que está faltando e gere uma versão otimizada em segundos.
 Botão principal:
-"Analisar Meu Currículo"
+Analisar Meu Currículo
 Botão secundário:
-"Como Funciona"
+Como Funciona
 ---
 ## Seção Como Funciona
 Etapa 1
