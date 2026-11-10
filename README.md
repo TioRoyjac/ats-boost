@@ -38,6 +38,7 @@ ATS-Boost/
 O prompt completo utilizado para desenvolvimento da aplicação ATS Boost está disponível no arquivo abaixo:
 
 ➡️ [Mega Prompt Completo](mega-prompt.md)
+
 ➡️ [Tela do Aplicativo Completo](telas.md)
 
 
