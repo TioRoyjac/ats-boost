@@ -4,8 +4,8 @@
 
 Tela inicial da aplicação ATS Boost.
 
-(<img width="493" height="354" alt="image" src="https://github.com/user-attachments/assets/a869dc8d-d3e0-44fe-b556-abe54717c7c1" />
-                <img width="467" height="354" alt="image" src="https://github.com/user-attachments/assets/c45fa61c-d40e-4cbc-85eb-ac90ff84470e" />)
+<img width="493" height="354" alt="image" src="https://github.com/user-attachments/assets/a869dc8d-d3e0-44fe-b556-abe54717c7c1" />
+                <img width="467" height="354" alt="image" src="https://github.com/user-attachments/assets/c45fa61c-d40e-4cbc-85eb-ac90ff84470e" />
                 <img width="440" height="329" alt="image" src="https://github.com/user-attachments/assets/1219fa50-5615-4914-b9d9-c84997cb6868" />
 
 ---
@@ -14,7 +14,7 @@ Tela inicial da aplicação ATS Boost.
 
 Tela onde o usuário informa a vaga e o currículo.
 
-(<img width="429" height="328" alt="image" src="https://github.com/user-attachments/assets/cd56b5de-024d-4b8e-8a9a-44c1ba2357a8" />
+<img width="429" height="328" alt="image" src="https://github.com/user-attachments/assets/cd56b5de-024d-4b8e-8a9a-44c1ba2357a8" />
       <<img width="484" height="322" alt="image" src="https://github.com/user-attachments/assets/b703611d-bf1f-485a-967a-ac0fe0b0cc93" />
 
 ---
