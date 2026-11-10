@@ -33,19 +33,19 @@ Utilizar shadcn/ui em toda a aplicação.
 - Foco em legibilidade
 ## Paleta de Cores
 ### Primária
-#2563EB
-### Sucesso
-#22C55E
-### Atenção
-#F59E0B
-### Fundo
-#FFFFFF
-### Fundo Secundário
-#F8FAFC
-### Texto
-#0F172A
-### Bordas
-#E2E8F0
+2563EB
+## Sucesso
+22C55E
+## Atenção
+F59E0B
+## Fundo
+FFFFFF
+## Fundo Secundário
+F8FAFC
+## Texto
+0F172A
+## Bordas
+E2E8F0
 ---
 # Estrutura de Navegação
 Criar menu superior responsivo.
@@ -55,8 +55,8 @@ Itens:
 - Analisar Currículo
 - Painel Administrativo
 ---
-# Landing Page
-## Hero Section
+ Landing Page:
+ Hero Section
 Título:
 "Passe pelos filtros ATS e aumente suas chances de entrevista."
 Subtítulo:
@@ -95,7 +95,7 @@ Perguntas:
 - Os dados ficam salvos?
 ---
 # Página de Análise
-## Formulário Principal
+ Formulário Principal
 Campo 1
 Descrição da vaga
 Tipo:
