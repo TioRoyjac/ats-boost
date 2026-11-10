@@ -24,8 +24,6 @@ Além disso, a ferramenta gera uma versão otimizada do currículo, organizada d
 
 ## Estrutura do Projeto
 
-```text
-## 📁 Estrutura do Projeto
 
 ```text
 ## 📁 Estrutura do Projeto
